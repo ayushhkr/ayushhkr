@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
+</p>
+
+<h2 align="center">Hi 👋, I'm Ayush Kumar</h2>
+
+<p align="center">
+  Machine Learning & Deep Learning Enthusiast • Python • Signal & Image Processing
+</p>
+
+---
+
 # 💫 About Me:
 ML & DL enthusiast focused on building practical, data-driven projects.<br><br>🔭 I’m currently working on<br>ML & DL projects<br><br>👯 I’m looking to collaborate on<br>Machine Learning and Data Science projects<br><br>🌱 I’m currently learning<br>Deep Learning, CNNs and model evaluation techniques<br><br>💬 Ask me about<br>Python, ML & DL, Signal & Image Processing
 
