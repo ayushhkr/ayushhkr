@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me:
-AI & ML enthusiast focused on building practical, data-driven projects.<br><br>🔭 I’m currently working on<br>ML & DL projects<br><br>👯 I’m looking to collaborate on<br>Machine Learning and Data Science projects<br><br>🌱 I’m currently learning<br>Agentic AI, Deep Learning, CNNs and model evaluation techniques<br><br>💬 Ask me about<br>Python, ML & DL, Signal & Image Processing
+AI & ML enthusiast focused on building practical, data-driven projects.<br><br>🔭 I’m currently working on<br>ML & DL projects<br><br>👯 I’m looking to collaborate on<br>Machine Learning and Data Science projects<br><br>🌱 I’m currently learning<br>Agentic AI, Deep Learning, and model evaluation techniques<br><br>💬 Ask me about<br>Python, ML & DL, Signal & Image Processing
 
 
 ## 🌐 Socials:
